@@ -1,0 +1,13 @@
+changeStrategy
+create
+disableVersions
+enableVersions
+edit
+save
+load
+addLatex
+rollback
+rot13Save
+atbashSave
+rot13Load
+atbashLoad
