@@ -5,3 +5,6 @@ Refactoring of another developer's LaTex Editor project. The LaTex Editor is an 
 - Several changes were made primarily in the control package.
 - A few changes were made in the model package.
 - Almost no changes were made to the view package.
+### Some extensions were made after the refactoring.
+- The ability to encode text using AtBash and Rot13 encodings.
+- The ability to decode text encoded with the above encodings.
