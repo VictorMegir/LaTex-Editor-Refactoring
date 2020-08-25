@@ -8,3 +8,8 @@ Refactoring of another developer's LaTex Editor project. The LaTex Editor is an 
 ### Some extensions were made after the refactoring.
 - The ability to encode text using AtBash and Rot13 ciphers.
 - The ability to decode text encoded with the above ciphers.
+
+#### Package diagram before refactoring:
+![Image](https://github.com/VictorMegir/LaTex-Editor-Refactoring/blob/master/Diagrams/Package%20Diagram%20Original.gif)
+#### Package diagram after refactoring:
+![Image](https://github.com/VictorMegir/LaTex-Editor-Refactoring/blob/master/Diagrams/Package%20Diagram.gif)
